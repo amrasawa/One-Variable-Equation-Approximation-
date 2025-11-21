@@ -2,17 +2,24 @@
 C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(7,19): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(9,55): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
 C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(13,41): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(34,22): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(17,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(19,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(42,22): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
           with
           [
               _Ty=float
           ]
-C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(41,23): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(49,23): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
           with
           [
               _Ty=float
           ]
-C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(61,22): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(69,22): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Amra\university\Numerical Analysis\One-Variable Equation\One-Variable Equation\Source.cpp(95,22): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
           with
           [
               _Ty=float
